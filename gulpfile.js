@@ -43,6 +43,7 @@ const javascript = () => {
 const watchFiles = () => {
 	gulp.watch("./src/sass/**/*.scss", styles);
 	gulp.watch("./src/js/**/*.js", javascript);
+	gulp.watch("./*.html", browserReload);
 }
 
 const browserSync = (done) => {
@@ -53,6 +54,10 @@ const browserSync = (done) => {
 		port: 3000
 	  });
 	  done();
+}
+
+const browserReload = () => {
+	browserSyncServer.reload();
 }
 
 const compressImages = () => {
