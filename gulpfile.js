@@ -15,39 +15,50 @@ const imagemin = require("gulp-imagemin");
 const browserSyncServer = require("browser-sync").create();
 
 const styles = () => {
-	return gulp.src( './src/sass/**/*.scss')
+	return gulp.src( './src/assets/sass/**/*.scss')
 	.pipe(sourcemaps.init())
 	.pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
 	.pipe(postcss([
 		autoprefixer({ overrideBrowserslist: ['last 2 versions', 'ie >= 9'] })
 	]))
 	.pipe(sourcemaps.write('./'))
-	.pipe(gulp.dest( './dist/css/'))
+	.pipe(gulp.dest( './dist/assets/css/'))
 	.pipe(browserSyncServer.stream());
 }
 
 const javascript = () => {
-	return gulp.src('./src/js/**/*.js')
+	return gulp.src('./src/assets/js/**/*.js')
 	  .pipe(sourcemaps.init())
 	  .pipe(eslint())
 	  .pipe(babel())
 	  .pipe(concat('main.min.js'))
 	  .pipe(uglify())
 	  .pipe(sourcemaps.write('./'))
-	  .pipe(gulp.dest( './dist/js/'))
+	  .pipe(gulp.dest( './dist/assets/js/'))
 	  .pipe(browserSyncServer.stream());
 }
 
+const html = () => {
+	return gulp.src('./src/*.html')
+		.pipe(gulp.dest( './dist/'));
+}
+
 const watchFiles = () => {
-	gulp.watch("./src/sass/**/*.scss", styles);
-	gulp.watch("./src/js/**/*.js", javascript);
-	gulp.watch("./*.html", browserReload);
+	gulp.watch("./src/assets/sass/**/*.scss", styles);
+	gulp.watch("./src/assets/js/**/*.js", javascript);
+	gulp.watch([
+		"./src/assets/images/**/*.jpg",
+		"./src/assets/images/**/*.png",
+		"./src/assets/images/**/*.gif",
+		"./src/assets/images/**/*.svg"
+	], compressImages);
+	gulp.watch("./src/*.html", gulp.series(html, browserReload));
 }
 
 const browserSync = (done) => {
 	browserSyncServer.init({
 		server: {
-		  baseDir: "./"
+		  baseDir: "./dist"
 		},
 		port: 3000
 	  });
@@ -60,21 +71,22 @@ const browserReload = () => {
 
 const compressImages = () => {
 	return gulp.src([
-		 './src/images/**/*',
-		 './src/img/**/*'
+		"./src/assets/images/**/*.jpg",
+		"./src/assets/images/**/*.png",
+		"./src/assets/images/**/*.gif",
+		"./src/assets/images/**/*.svg"
 	  ])
 	 .pipe(imagemin({
 		 progressive: true,
 		 svgoPlugins: [{removeViewBox: false}]
 	 }))
-	 .pipe(gulp.dest('./dist/images/'))
+	 .pipe(gulp.dest('./dist/assets/images/'))
 }
 
-const build = gulp.series(styles, javascript);
-const watch = gulp.parallel(watchFiles, browserSync);
+const build = gulp.series(html, styles, javascript, compressImages);
+const watch = gulp.series(build, gulp.parallel(watchFiles, browserSync));
 const compress = gulp.series(compressImages);
 
 exports.watch = watch;
 exports.compress = compress;
-
 exports.default = build;
