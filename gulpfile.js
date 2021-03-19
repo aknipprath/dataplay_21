@@ -4,7 +4,6 @@ const sourcemaps = require('gulp-sourcemaps');
 const postcss = require('gulp-postcss');
 
 const autoprefixer = require('autoprefixer');
-const cssnano = require('cssnano');
 
 const babel = require('gulp-babel');
 const concat = require('gulp-concat');
@@ -20,8 +19,7 @@ const styles = () => {
 	.pipe(sourcemaps.init())
 	.pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
 	.pipe(postcss([
-		autoprefixer({ overrideBrowserslist: ['last 2 versions', 'ie >= 9'] }),
-		cssnano()
+		autoprefixer({ overrideBrowserslist: ['last 2 versions', 'ie >= 9'] })
 	]))
 	.pipe(sourcemaps.write('./'))
 	.pipe(gulp.dest( './dist/css/'))
