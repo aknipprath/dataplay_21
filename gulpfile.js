@@ -19,7 +19,7 @@ const styles = () => {
 	.pipe(sourcemaps.init())
 	.pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
 	.pipe(postcss([
-		autoprefixer({ overrideBrowserslist: ['last 2 versions', 'ie >= 9'] })
+		autoprefixer({ overrideBrowserslist: ['last 2 versions', 'ie >= 10'] })
 	]))
 	.pipe(sourcemaps.write('./'))
 	.pipe(gulp.dest( './dist/assets/css/'))
@@ -65,8 +65,9 @@ const browserSync = (done) => {
 	  done();
 }
 
-const browserReload = () => {
+const browserReload = (done) => {
 	browserSyncServer.reload();
+	done();
 }
 
 const compressImages = () => {
