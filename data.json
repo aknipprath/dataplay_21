@@ -123,98 +123,77 @@
                 "Match_1":[{
                     "Score-match": "4-1",
                     "Overtime": "0",
-                    "Maps": "DFH Stadium",
                     "Order": "1",
                     "Score-team": "1260",
                     "Goals": "4",
                     "Assist": "2",
                     "Save": "3",
-                    "Shot": "13",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "13"
                 }],
                 "Match_2":[{
                     "Score-match": "0-1",
                     "Overtime": "0",
-                    "Maps": "Neo Tokyo",
                     "Order": "2",
                     "Score-team": "754",
                     "Goals": "0",
                     "Assist": "0",
                     "Save": "5",
-                    "Shot": "5",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "5"
                 }],
                 "Match_3":[{
                     "Match": "Finale",
                     "Score-match": "3-4",
                     "Overtime": "0",
-                    "Maps": "Mannfield",
                     "Order": "3",
                     "Score-team": "1505",
                     "Goals": "3",
                     "Assist": "2",
                     "Save": "8",
-                    "Shot": "10",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "10"
                 }],
                 "Match_4":[{
                     "Match": "Finale",
                     "Score-match": "2-1",
                     "Overtime": "1:12",
-                    "Maps": "Utopia Coliseum",
                     "Order": "4",
                     "Score-team": "1481",
                     "Goals": "2",
                     "Assist": "1",
                     "Save": "8",
-                    "Shot": "9",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "9"
                 }],
                 "Match_5":[{
                     "Match": "Finale",
                     "Score-match": "1-0",
                     "Overtime": "0",
-                    "Maps": "Urban Central",
                     "Order": "5",
                     "Score-team": "997",
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "4",
-                    "Shot": "5",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "5"
                 }],
                 "Match_6":[{
                     "Match": "Finale",
                     "Score-match": "2-3",
                     "Overtime": "0",
-                    "Maps": "Aquadome",
                     "Order": "6",
                     "Score-team": "1075",
                     "Goals": "2",
                     "Assist": "1",
                     "Save": "6",
-                    "Shot": "6",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "6"
                 }],
                 "Match_7":[{
                     "Match": "Finale",
                     "Score-match": "2-1",
                     "Overtime": "0:21",
-                    "Maps": "Champions Field",
                     "Order": "7",
                     "Score-team": "977",
                     "Goals": "2",
                     "Assist": "2",
                     "Save": "3",
-                    "Shot": "8",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "8"
                 }]
             }],
             "Semi_final":[{
@@ -229,67 +208,52 @@
                 "Match_1":[{
                     "Score-match": "4-2",
                     "Overtime": "0",
-                    "Maps": "DFH Stadium",
                     "Order": "1",
                     "Score-team": "1234",
                     "Goals": "4",
                     "Assist": "4",
                     "Save": "2",
-                    "Shot": "13",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "13"
                 }],
                 "Match_2":[{
                     "Score-match": "4-1",
                     "Overtime": "0",
-                    "Maps": "Neo Tokyo",
                     "Order": "2",
                     "Score-team": "1336",
                     "Goals": "4",
                     "Assist": "3",
                     "Save": "4",
-                    "Shot": "10",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "10"
                 }],
                 "Match_3":[{
                     "Score-match": "2-0",
                     "Overtime": "0",
-                    "Maps": "Mannfield",
                     "Order": "3",
                     "Score-team": "1206",
                     "Goals": "2",
                     "Assist": "2",
                     "Save": "7",
-                    "Shot": "11",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "11"
                 }],
                 "Match_4":[{
                     "Score-match": "3-7",
                     "Overtime": "0",
-                    "Maps": "Utopia Coliseum",
                     "Order": "4",
                     "Score-team": "1198",
                     "Goals": "3",
                     "Assist": "3",
                     "Save": "3",
-                    "Shot": "10",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "10"
                 }],
                 "Match_5":[{
                     "Score-match": "4-1",
                     "Overtime": "0",
-                    "Maps": "Urban Central",
                     "Order":"5",
                     "Score-team": "1514",
                     "Goals": "4",
                     "Assist": "4",
                     "Save": "4",
-                    "Shot": "11",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "11"
                 }]
             }]
         }],
@@ -421,93 +385,72 @@
                 "Match_1":[{
                     "Score-match": "1-4",
                     "Overtime": "0",
-                    "Maps": "DFH Stadium",
                     "Order": "1",
                     "Score-team": "1200",
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "8",
-                    "Shot": "4",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "4"
                 }],
                 "Match_2":[{
                     "Score-match": "1-0",
                     "Overtime": "0",
-                    "Maps": "Neo Tokyo",
                     "Order": "2",
                     "Score-team": "935",
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "5",
-                    "Shot": "7",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "7"
                 }],
                 "Match_3":[{
                     "Score-match": "4-3",
                     "Overtime": "0",
-                    "Maps": "Mannfield",
                     "Order": "3",
                     "Score-team": "1359",
                     "Goals": "4",
                     "Assist": "3",
                     "Save": "4",
-                    "Shot": "14",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "14"
                 }],
                 "Match_4":[{
                     "Score-match": "1-2",
                     "Overtime": "1:12",
-                    "Maps": "Utopia Coliseum",
                     "Order": "4",
                     "Score-team": "1208",
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "5",
-                    "Shot": "12",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "12"
                 }],
                 "Match_5":[{
                     "Score-match": "0-1",
                     "Overtime": "0",
-                    "Maps": "Urban Central",
                     "Order": "5",
                     "Score-team": "933",
                     "Goals": "0",
                     "Assist": "0",
                     "Save": "5",
-                    "Shot": "6",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "6"
                 }],
                 "Match_6":[{
                     "Score-match": "3-2",
                     "Overtime": "0",
-                    "Maps": "Aquadome",
                     "Order": "6",
                     "Score-team": "1071",
                     "Goals": "3",
                     "Assist": "2",
                     "Save": "3",
-                    "Shot": "9",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "9"
                 }],
                 "Match_7":[{
                     "Score-match": "1-2",
                     "Overtime": "0:21",
-                    "Maps": "Champions Field",
                     "Order": "7",
                     "Score-team": "989",
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "6",
-                    "Shot": "8",
-                    "Dated": "15-12-2019",
-                    "Hour": "20 UTC ( 22h Belgique )"
+                    "Shot": "8"
                 }]
             }],
             "Semi_final":[{
@@ -522,93 +465,72 @@
                 "Match_1":[{
                     "Score-match": "2-1",
                     "Overtime": "0",
-                    "Maps": "DFH Stadium",
                     "Order": "1",
                     "Score-team": "989",
                     "Goals": "2",
                     "Assist": "2",
                     "Save": "4",
-                    "Shot": "2",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "2"
                 }],
                 "Match_2":[{
                     "Score-match": "1-3",
                     "Overtime": "0",
-                    "Maps": "Neo Tokyo",
                     "Order": "2",
                     "Score-team": "1001",
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "7",
-                    "Shot": "5",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "5"
                 }],
                 "Match_3":[{
                     "Score-match": "4-3",
                     "Overtime": "0",
-                    "Maps": "Mannfield",
                     "Order": "3",
                     "Score-team": "1451",
                     "Goals": "4",
                     "Assist": "2",
                     "Save": "6",
-                    "Shot": "11",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "11"
                 }],
                 "Match_4":[{
                     "Score-match": "4-1",
                     "Overtime": "0",
-                    "Maps": "Utopia Coliseum",
                     "Order": "4",
                     "Score-team": "1792",
                     "Goals": "4",
                     "Assist": "4",
                     "Save": "9",
-                    "Shot": "9",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "9"
                 }],
                 "Match_5":[{
                     "Score-match": "3-4",
                     "Overtime": "0:08",
-                    "Maps": "Urban Central",
                     "Order": "5",
                     "Score-team": "1393",
                     "Goals": "3",
                     "Assist": "3",
                     "Save": "7",
-                    "Shot": "9",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "9"
                 }],
                 "Match_6":[{
                     "Score-match": "1-2",
                     "Overtime": "5:19",
-                    "Maps": "Aquadome",
                     "Order": "6",
                     "Score-team": "2024",
                     "Goals": "1",
                     "Assist": "0",
                     "Save": "13",
-                    "Shot": "16",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "16"
                 }],
                 "Match_7":[{
                     "Score-match": "1-0",
                     "Overtime": "0",
-                    "Maps": "Champions Field",
                     "Order": "7",
                     "Score-team": "953",
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "4",
-                    "Shot": "8",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "8"
                 }]
             }]
         }],
@@ -724,9 +646,7 @@
                     "Goals": "2",
                     "Assist": "2",
                     "Save": "10",
-                    "Shot": "4",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "4"
                 }],
                 "Match_2":[{
                     "Score-match": "1-4",
@@ -736,9 +656,7 @@
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "4",
-                    "Shot": "6",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "6"
                 }],
                 "Match_3":[{
                     "Score-match": "0-2",
@@ -748,9 +666,7 @@
                     "Goals": "0",
                     "Assist": "0",
                     "Save": "7",
-                    "Shot": "7",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "7"
                 }],
                 "Match_4":[{
                     "Score-match": "7-3",
@@ -760,9 +676,7 @@
                     "Goals": "7",
                     "Assist":"5",
                     "Save": "6",
-                    "Shot": "10",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "10"
                 }],
                 "Match_5":[{
                     "Score-match": "1-4",
@@ -772,9 +686,7 @@
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "4",
-                    "Shot": "5",
-                    "Dated": "15-12-2019",
-                    "Hour": "17 UTC ( 19h Belgique )"
+                    "Shot": "5"
                 }]
             }]
         }],
@@ -892,9 +804,7 @@
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "0",
-                    "Shot": "8",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "8"
                 }],
                 "Match_2":[{
                     "Score-match": "3-1",
@@ -904,9 +814,7 @@
                     "Goals": "3",
                     "Assist": "3",
                     "Save": "1",
-                    "Shot": "10",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "10"
                 }],
                 "Match_3":[{
                     "Score-match": "3-4",
@@ -916,9 +824,7 @@
                     "Goals": "3",
                     "Assist": "3",
                     "Save": "6",
-                    "Shot": "10",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "10"
                 }],
                 "Match_4":[{
                     "Score-match": "1-4",
@@ -928,9 +834,7 @@
                     "Goals": "1",
                     "Assist": "1",
                     "Save": "5",
-                    "Shot": "9",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "9"
                 }],
                 "Match_5":[{
                     "Match": "Demi-finale",
@@ -941,9 +845,7 @@
                     "Goals": "4",
                     "Assist": "2",
                     "Save": "5",
-                    "Shot": "10",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "10"
                 }],
                 "Match_6":[{
                     "Match": "Demi-finale",
@@ -954,9 +856,7 @@
                     "Goals": "2",
                     "Assist": "2",
                     "Save": "12",
-                    "Shot": "17",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "17"
                 }],
                 "Match_7":[{
                     "Score-match": "0-1",
@@ -966,9 +866,7 @@
                     "Goals": "0",
                     "Assist": "0",
                     "Save": "7",
-                    "Shot": "9",
-                    "Dated": "15-12-2019",
-                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                    "Shot": "9"
                 }]
             }]
         }],
