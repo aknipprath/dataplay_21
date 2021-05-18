@@ -1,0 +1,1594 @@
+{
+    "NRG":[{
+        "Team": "NRG Esports",
+        "Compo":[{
+            "GarrettG":[{    
+                "Players": "GarrettG",
+                "General":[{
+                    "Victory": "70.00%",
+                    "Score": "7740",
+                    "Goals": "15",
+                    "Assist": "11",
+                    "Save": "28",
+                    "Shot": "64"
+                }],
+                "Final":[{
+                    "Round": "Finale",
+                    "Goals": "4",
+                    "Assist": "1",
+                    "Save": "7",
+                    "Shot": "21"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "5",
+                    "Assist": "7",
+                    "Save": "8",
+                    "Shot": "20"
+                }]
+            }],
+            "jstn.":[{
+                "Players": "jstn.",
+                "General":[{
+                    "Victory": "70.00%",
+                    "Score": "9164",
+                    "Goals": "15",
+                    "Assist": "19",
+                    "Save": "41",
+                    "Shot": "78"
+                }],
+                "Final":[{
+                    "Round": "Finale",
+                    "Goals": "4",
+                    "Assist": "4",
+                    "Save": "17",
+                    "Shot": "20"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "5",
+                    "Assist": "8",
+                    "Save": "7",
+                    "Shot": "19"
+                }]
+            }],
+            "Turbopolsa":[{
+                "Players": "Turbopolsa",
+                "General":[{
+                    "Victory": "70.00%",
+                    "Score": "7329",
+                    "Goals": "18",
+                    "Assist": "10",
+                    "Save": "26",
+                    "Shot": "61"
+                }],
+                "Final":[{
+                    "Round": "Finale",
+                    "Goals": "6",
+                    "Assist": "4",
+                    "Save": "13",
+                    "Shot": "15"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "7",
+                    "Assist": "1",
+                    "Save": "5",
+                    "Shot": "16"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "Moses"
+        }],
+        "Coach":[{
+            "Name":"Sizz"
+        }],
+        "Native":[{
+            "Country":"Etats-Unis"
+        }],
+        "Region":[{
+            "Continent":"Amérique du Nord"
+        }],
+        "Sponsor":[{
+            "Number": "11"
+        }],
+        "Earings":[{
+            "Money": "1 015 195$"
+        }],
+        "Created":[{
+            "Dated": "10-01-2016"
+        }],
+        "Disbanded":[{
+            "Dated": ""
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "70%",
+                "Score": "24233",
+                "Goals": "48",
+                "Assists": "40",
+                "Saves": "95",
+                "Shots": "203"
+            }],
+            "Final":[{
+                "General":[{
+                    "Round": "Finale",
+                    "Score-team": "8049",
+                    "Goals": "14",
+                    "Assist": "9",
+                    "Save": "37",
+                    "Shot": "56"
+                }],
+                "Match_1":[{
+                    "Score-match": "4-1",
+                    "Overtime": "0",
+                    "Maps": "DFH Stadium",
+                    "Order": "1",
+                    "Score-team": "1260",
+                    "Goals": "4",
+                    "Assist": "2",
+                    "Save": "3",
+                    "Shot": "13",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_2":[{
+                    "Score-match": "0-1",
+                    "Overtime": "0",
+                    "Maps": "Neo Tokyo",
+                    "Order": "2",
+                    "Score-team": "754",
+                    "Goals": "0",
+                    "Assist": "0",
+                    "Save": "5",
+                    "Shot": "5",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_3":[{
+                    "Match": "Finale",
+                    "Score-match": "3-4",
+                    "Overtime": "0",
+                    "Maps": "Mannfield",
+                    "Order": "3",
+                    "Score-team": "1505",
+                    "Goals": "3",
+                    "Assist": "2",
+                    "Save": "8",
+                    "Shot": "10",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_4":[{
+                    "Match": "Finale",
+                    "Score-match": "2-1",
+                    "Overtime": "1:12",
+                    "Maps": "Utopia Coliseum",
+                    "Order": "4",
+                    "Score-team": "1481",
+                    "Goals": "2",
+                    "Assist": "1",
+                    "Save": "8",
+                    "Shot": "9",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_5":[{
+                    "Match": "Finale",
+                    "Score-match": "1-0",
+                    "Overtime": "0",
+                    "Maps": "Urban Central",
+                    "Order": "5",
+                    "Score-team": "997",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "4",
+                    "Shot": "5",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_6":[{
+                    "Match": "Finale",
+                    "Score-match": "2-3",
+                    "Overtime": "0",
+                    "Maps": "Aquadome",
+                    "Order": "6",
+                    "Score-team": "1075",
+                    "Goals": "2",
+                    "Assist": "1",
+                    "Save": "6",
+                    "Shot": "6",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_7":[{
+                    "Match": "Finale",
+                    "Score-match": "2-1",
+                    "Overtime": "0:21",
+                    "Maps": "Champions Field",
+                    "Order": "7",
+                    "Score-team": "977",
+                    "Goals": "2",
+                    "Assist": "2",
+                    "Save": "3",
+                    "Shot": "8",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }]
+            }],
+            "Semi_final":[{
+                "General":[{
+                    "Round": "Demi-finale",
+                    "Score-team": "6488",
+                    "Goals": "17",
+                    "Assist": "16",
+                    "Save": "20",
+                    "Shot": "55"
+                }],
+                "Match_1":[{
+                    "Score-match": "4-2",
+                    "Overtime": "0",
+                    "Maps": "DFH Stadium",
+                    "Order": "1",
+                    "Score-team": "1234",
+                    "Goals": "4",
+                    "Assist": "4",
+                    "Save": "2",
+                    "Shot": "13",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }],
+                "Match_2":[{
+                    "Score-match": "4-1",
+                    "Overtime": "0",
+                    "Maps": "Neo Tokyo",
+                    "Order": "2",
+                    "Score-team": "1336",
+                    "Goals": "4",
+                    "Assist": "3",
+                    "Save": "4",
+                    "Shot": "10",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }],
+                "Match_3":[{
+                    "Score-match": "2-0",
+                    "Overtime": "0",
+                    "Maps": "Mannfield",
+                    "Order": "3",
+                    "Score-team": "1206",
+                    "Goals": "2",
+                    "Assist": "2",
+                    "Save": "7",
+                    "Shot": "11",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }],
+                "Match_4":[{
+                    "Score-match": "3-7",
+                    "Overtime": "0",
+                    "Maps": "Utopia Coliseum",
+                    "Order": "4",
+                    "Score-team": "1198",
+                    "Goals": "3",
+                    "Assist": "3",
+                    "Save": "3",
+                    "Shot": "10",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }],
+                "Match_5":[{
+                    "Score-match": "4-1",
+                    "Overtime": "0",
+                    "Maps": "Urban Central",
+                    "Order":"5",
+                    "Score-team": "1514",
+                    "Goals": "4",
+                    "Assist": "4",
+                    "Save": "4",
+                    "Shot": "11",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }]
+            }]
+        }],
+        "Price":[{
+            "Cash": "200k$"
+        }]
+    }],
+    "Vitality":[{
+        "Team": "Renault Vitality",
+        "Compo":[{
+            "Fairy peak":[{    
+                "Players": "Fairy Peak",
+                "General":[{
+                    "Victory": "55.17%",
+                    "Score": "11666",
+                    "Goals": "16",
+                    "Assist": "11",
+                    "Save": "60",
+                    "Shot": "75"
+                }],
+                "Final":[{
+                    "Round": "Finale",
+                    "Goals": "3",
+                    "Assist": "3",
+                    "Save": "11",
+                    "Shot": "20"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "6",
+                    "Assist": "3",
+                    "Save": "17",
+                    "Shot": "14"
+                }]
+            }],
+            "Kaydop":[{
+                "Players": "Kaydop",
+                "General":[{
+                    "Victory": "55.17%",
+                    "Score": "10939",
+                    "Goals": "15",
+                    "Assist": "16",
+                    "Save": "52",
+                    "Shot": "80"
+                }],
+                "Final":[{
+                    "Round": "Finale",
+                    "Goals": "5",
+                    "Assist": "3",
+                    "Save": "7",
+                    "Shot": "26"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "5",
+                    "Assist": "5",
+                    "Save": "14",
+                    "Shot": "19"
+                }]
+            }],
+            "Scrub Killa":[{
+                "Players": "Scrub Killa",
+                "General":[{
+                    "Victory": "55.17%",
+                    "Score": "12492",
+                    "Goals": "17",
+                    "Assist": "14",
+                    "Save": "74",
+                    "Shot": "75"
+                }],
+                "Final":[{
+                    "Round": "Finale",
+                    "Goals": "3",
+                    "Assist": "3",
+                    "Save": "18",
+                    "Shot": "14"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "5",
+                    "Assist":"5",
+                    "Save": "17",
+                    "Shot": "25"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "Jessie"
+        }],
+        "Coach":[{
+            "Name":"Gregan"
+        }],
+        "Native":[{
+            "Country":"France"
+        }],
+        "Region":[{
+            "Continent":"Europe"
+        }],
+        "Sponsor":[{
+            "Number": "6"
+        }],
+        "Earings":[{
+            "Money": "829 431$"
+        }],
+        "Created":[{
+            "Dated": "12-02-2018"
+        }],
+        "Disbanded":[{
+            "Dated": ""
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "55%",
+                "Score": "35097",
+                "Goals": "48",
+                "Assists": "41",
+                "Saves": "186",
+                "Shots": "230"
+            }],
+            "Final":[{
+                "General":[{
+                    "Round": "Finale",
+                    "Score-team": "7695",
+                    "Goals": "11",
+                    "Assist": "9",
+                    "Save": "36",
+                    "Shot": "60"
+                }],
+                "Match_1":[{
+                    "Score-match": "1-4",
+                    "Overtime": "0",
+                    "Maps": "DFH Stadium",
+                    "Order": "1",
+                    "Score-team": "1200",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "8",
+                    "Shot": "4",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_2":[{
+                    "Score-match": "1-0",
+                    "Overtime": "0",
+                    "Maps": "Neo Tokyo",
+                    "Order": "2",
+                    "Score-team": "935",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "5",
+                    "Shot": "7",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_3":[{
+                    "Score-match": "4-3",
+                    "Overtime": "0",
+                    "Maps": "Mannfield",
+                    "Order": "3",
+                    "Score-team": "1359",
+                    "Goals": "4",
+                    "Assist": "3",
+                    "Save": "4",
+                    "Shot": "14",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_4":[{
+                    "Score-match": "1-2",
+                    "Overtime": "1:12",
+                    "Maps": "Utopia Coliseum",
+                    "Order": "4",
+                    "Score-team": "1208",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "5",
+                    "Shot": "12",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_5":[{
+                    "Score-match": "0-1",
+                    "Overtime": "0",
+                    "Maps": "Urban Central",
+                    "Order": "5",
+                    "Score-team": "933",
+                    "Goals": "0",
+                    "Assist": "0",
+                    "Save": "5",
+                    "Shot": "6",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_6":[{
+                    "Score-match": "3-2",
+                    "Overtime": "0",
+                    "Maps": "Aquadome",
+                    "Order": "6",
+                    "Score-team": "1071",
+                    "Goals": "3",
+                    "Assist": "2",
+                    "Save": "3",
+                    "Shot": "9",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }],
+                "Match_7":[{
+                    "Score-match": "1-2",
+                    "Overtime": "0:21",
+                    "Maps": "Champions Field",
+                    "Order": "7",
+                    "Score-team": "989",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "6",
+                    "Shot": "8",
+                    "Dated": "15-12-2019",
+                    "Hour": "20 UTC ( 22h Belgique )"
+                }]
+            }],
+            "Semi_final":[{
+                "General":[{
+                    "Round": "Demi-finale",
+                    "Score-team": "9603",
+                    "Goals": "16",
+                    "Assist": "13",
+                    "Save": "50",
+                    "Shot": "60"
+                }],
+                "Match_1":[{
+                    "Score-match": "2-1",
+                    "Overtime": "0",
+                    "Maps": "DFH Stadium",
+                    "Order": "1",
+                    "Score-team": "989",
+                    "Goals": "2",
+                    "Assist": "2",
+                    "Save": "4",
+                    "Shot": "2",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_2":[{
+                    "Score-match": "1-3",
+                    "Overtime": "0",
+                    "Maps": "Neo Tokyo",
+                    "Order": "2",
+                    "Score-team": "1001",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "7",
+                    "Shot": "5",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_3":[{
+                    "Score-match": "4-3",
+                    "Overtime": "0",
+                    "Maps": "Mannfield",
+                    "Order": "3",
+                    "Score-team": "1451",
+                    "Goals": "4",
+                    "Assist": "2",
+                    "Save": "6",
+                    "Shot": "11",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_4":[{
+                    "Score-match": "4-1",
+                    "Overtime": "0",
+                    "Maps": "Utopia Coliseum",
+                    "Order": "4",
+                    "Score-team": "1792",
+                    "Goals": "4",
+                    "Assist": "4",
+                    "Save": "9",
+                    "Shot": "9",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_5":[{
+                    "Score-match": "3-4",
+                    "Overtime": "0:08",
+                    "Maps": "Urban Central",
+                    "Order": "5",
+                    "Score-team": "1393",
+                    "Goals": "3",
+                    "Assist": "3",
+                    "Save": "7",
+                    "Shot": "9",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_6":[{
+                    "Score-match": "1-2",
+                    "Overtime": "5:19",
+                    "Maps": "Aquadome",
+                    "Order": "6",
+                    "Score-team": "2024",
+                    "Goals": "1",
+                    "Assist": "0",
+                    "Save": "13",
+                    "Shot": "16",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_7":[{
+                    "Score-match": "1-0",
+                    "Overtime": "0",
+                    "Maps": "Champions Field",
+                    "Order": "7",
+                    "Score-team": "953",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "4",
+                    "Shot": "8",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }]
+            }]
+        }],
+        "Price":[{
+            "Cash": "120k$"
+        }]
+    }],
+    "Spacestation":[{
+        "Team": "Spacestation Gaming",
+        "Compo":[{
+            "Arsenal":[{
+                "Players": "Arsenal",
+                "General":[{
+                    "Victory": "55%",
+                    "Score": "7812",
+                    "Goals": "19",
+                    "Assist": "13",
+                    "Save":"24",
+                    "Shot": "65"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "5",
+                    "Assist": "3",
+                    "Save": "10",
+                    "Shot": "13"
+                }]
+            }],
+            "AxB":[{
+                "Players": "AxB",
+                "General":[{
+                    "Victory": "55%",
+                    "Score": "7764",
+                    "Goals": "17",
+                    "Assist": "10",
+                    "Save": "30",
+                    "Shot": "41"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "3",
+                    "Assist": "2",
+                    "Save": "11",
+                    "Shot": "7"
+ 
+                }]
+            }],
+            "Sypical":[{
+                "Players": "Sypical",
+                "General":[{
+                    "Score": "7997",
+                    "Goals": "14",
+                    "Assist": "17",
+                    "Save": "39",
+                    "Shot": "47"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals":"3",
+                    "Assist": "4",
+                    "Save": "10",
+                    "Shot": "12"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": ""
+        }],
+        "Coach":[{
+            "Name":"Chrome"
+        }],
+        "Native":[{
+            "Country":"Etats-Unis"
+        }],
+        "Region":[{
+            "Continent":"Amérique du Nord"
+        }],
+        "Sponsor":[{
+            "Number": "5"
+        }],
+        "Earings":[{
+            "Money": "438 661$"
+        }],
+        "Created":[{
+            "Dated": "14-02-2018"
+        }],
+        "Disbanded":[{
+            "Dated": ""
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "55.00%",
+                "Score": "23573",
+                "Goals": "50",
+                "Assists": "40",
+                "Saves": "93",
+                "Shots": "153"
+            }],
+            "Semi-final":[{
+                "General":[{
+                    "Round": "Demi-finale",
+                    "Score-team": "5906",
+                    "Goals": "11",
+                    "Assist": "9",
+                    "Save": "31",
+                    "Shot": "32"
+                }],
+                "Match_1":[{
+                    "Score-match": "2-4",
+                    "Overtime": "0",
+                    "Order": "1",
+                    "Score-team": "1371",
+                    "Goals": "2",
+                    "Assist": "2",
+                    "Save": "10",
+                    "Shot": "4",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }],
+                "Match_2":[{
+                    "Score-match": "1-4",
+                    "Overtime": "0",
+                    "Order": "2",
+                    "Score-team": "899",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "4",
+                    "Shot": "6",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }],
+                "Match_3":[{
+                    "Score-match": "0-2",
+                    "Overtime": "0",
+                    "Order": "3",
+                    "Score-team": "887",
+                    "Goals": "0",
+                    "Assist": "0",
+                    "Save": "7",
+                    "Shot": "7",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }],
+                "Match_4":[{
+                    "Score-match": "7-3",
+                    "Overtime": "0",
+                    "Order": "4",
+                    "Score-team": "1931",
+                    "Goals": "7",
+                    "Assist":"5",
+                    "Save": "6",
+                    "Shot": "10",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }],
+                "Match_5":[{
+                    "Score-match": "1-4",
+                    "Overtime": "0",
+                    "Order": "5",
+                    "Score-team": "818",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "4",
+                    "Shot": "5",
+                    "Dated": "15-12-2019",
+                    "Hour": "17 UTC ( 19h Belgique )"
+                }]
+            }]
+        }],
+        "Price":[{
+            "Cash": "40k$"
+        }]
+    }],
+    "Dignitas":[{
+        "Team": "Dignitas",
+        "Compo":[{
+            "Violentpanda":[{
+                "Players": "Violentpanda",
+                "General":[{
+                    "Victory": "66.67%",
+                    "Score": "7177",
+                    "Goals": "13",
+                    "Assist": "16",
+                    "Save": "30",
+                    "Shot": "51"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "2",
+                    "Assist": "5",
+                    "Save": "10",
+                    "Shot": "18"
+                }]
+            }],
+            "Yukeo":[{
+                "Players": "Yukeo",
+                "General":[{
+                    "Victory": "66.67%",
+                    "Score": "7129",
+                    "Goals": "19",
+                    "Assist": "7",
+                    "Save": "28",
+                    "Shot": "60"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "5",
+                    "Assist": "2",
+                    "Save": "9",
+                    "Shot": "14"
+ 
+                }]
+            }],
+            "AztraL":[{
+                "Players": "AztraL",
+                "General":[{
+                    "Victory": "66.67%",
+                    "Score": "7566",
+                    "Goals": "10",
+                    "Assist": "11",
+                    "Save": "38",
+                    "Shot": "59"
+                }],
+                "Semi_final":[{
+                    "Round": "Demi-finale",
+                    "Goals": "1",
+                    "Assist": "3",
+                    "Save": "12",
+                    "Shot": "26"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "JZR"
+        }],
+        "Coach":[{
+            "Name":"Virge"
+        }],
+        "Native":[{
+            "Country":"Etats-Unis"
+        }],
+        "Region":[{
+            "Continent":"Europe"
+        }],
+        "Sponsor":[{
+            "Number": "8"
+        }],
+        "Earings":[{
+            "Money": "662 984$"
+        }],
+        "Created":[{
+            "Dated": "23-01-2018"
+        }],
+        "Disbanded":[{
+            "Dated": ""
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "66.67%",
+                "Score": "21872",
+                "Goals": "42",
+                "Assists": "34",
+                "Saves": "96",
+                "Shots": "170"
+            }],
+            "Semi-final":[{
+                "General":[{
+                    "Round": "Demi-finale",
+                    "Score-team": "8264",
+                    "Goals": "14",
+                    "Assist": "12",
+                    "Save": "36",
+                    "Shot": "73"
+
+                }],
+                "Match_1":[{
+                    "Score-match": "1-2",
+                    "Overtime": "0",
+                    "Order": "1",
+                    "Score-team": "670",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "0",
+                    "Shot": "8",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_2":[{
+                    "Score-match": "3-1",
+                    "Overtime": "0",
+                    "Order": "2",
+                    "Score-team": "1010",
+                    "Goals": "3",
+                    "Assist": "3",
+                    "Save": "1",
+                    "Shot": "10",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_3":[{
+                    "Score-match": "3-4",
+                    "Overtime": "0",
+                    "Order": "3",
+                    "Score-team": "1366",
+                    "Goals": "3",
+                    "Assist": "3",
+                    "Save": "6",
+                    "Shot": "10",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_4":[{
+                    "Score-match": "1-4",
+                    "Overtime": "0",
+                    "Order": "4",
+                    "Score-team": "852",
+                    "Goals": "1",
+                    "Assist": "1",
+                    "Save": "5",
+                    "Shot": "9",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_5":[{
+                    "Match": "Demi-finale",
+                    "Score-match": "4-3",
+                    "Overtime": "0:08",
+                    "Order": "5",
+                    "Score-team": "1385",
+                    "Goals": "4",
+                    "Assist": "2",
+                    "Save": "5",
+                    "Shot": "10",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_6":[{
+                    "Match": "Demi-finale",
+                    "Score-match": "2-1",
+                    "Overtime": "5:19",
+                    "Order": "6",
+                    "Score-team": "2073",
+                    "Goals": "2",
+                    "Assist": "2",
+                    "Save": "12",
+                    "Shot": "17",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }],
+                "Match_7":[{
+                    "Score-match": "0-1",
+                    "Overtime": "0",
+                    "Order": "7",
+                    "Score-team": "908",
+                    "Goals": "0",
+                    "Assist": "0",
+                    "Save": "7",
+                    "Shot": "9",
+                    "Dated": "15-12-2019",
+                    "Hour": "18:30 UTC ( 20h30 Belgique )"
+                }]
+            }]
+        }],
+        "Price":[{
+            "Cash": "40k$"
+        }]
+    }],
+    "Veloce":[{
+        "Team": "Veloce Esports",
+        "Compo":[{
+            "FlamE":[{
+                "Players": "FlamE",
+                "General":[{
+                    "Victory": "44.44%",
+                    "Score": "6708",
+                    "Goals": "9",
+                    "Assist": "10",
+                    "Save": "30",
+                    "Shot": "51"
+                }]
+            }],
+            "FreaKii.":[{
+                "Players": "FreaKii.",
+                "General":[{
+                    "Victory": "44.44%",
+                    "Score": "7296",
+                    "Goals": "13",
+                    "Assist": "7",
+                    "Save": "35",
+                    "Shot": "54"
+                }]
+            }],
+            "Kassio":[{
+                "Players": "Kassio",
+                "General":[{
+                    "Victory": "44.44%",
+                    "Score": "6726",
+                    "Goals": "10",
+                    "Assist": "7",
+                    "Save": "32",
+                    "Shot": "48"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": ""
+        }],
+        "Coach":[{
+            "Name":"miztik"
+        }],
+        "Native":[{
+            "Country":"Royaume Uni"
+        }],
+        "Region":[{
+            "Continent":"Europe"
+        }],
+        "Sponsor":[{
+            "Number": "4"
+        }],
+        "Earings":[{
+            "Money": "94 679$"
+        }],
+        "Created":[{
+            "Dated": "14-02-2019"
+        }],
+        "Disbanded":[{
+            "Dated": "04-06-2020"
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "44.44%",
+                "Score": "20730",
+                "Goals": "32",
+                "Assists": "24",
+                "Saves": "97",
+                "Shots": "153"
+            }]
+        }],
+        "Price":[{
+            "Cash": "24 750$"
+        }]
+    }],
+    "Pittsburgh":[{
+        "Team": "Pittsburgh Knights",
+        "Compo":[{
+            "Gyro.":[{
+                "Players": "Gyro.",
+                "General":[{
+                    "Victory": "58.82%",
+                    "Score": "5780",
+                    "Goals": "7",
+                    "Assist": "13",
+                    "Save": "29",
+                    "Shot": "34"
+                }] 
+            }],
+            "retals":[{
+                "Players": "retals",
+                "General":[{
+                    "Victory": "58.82%",
+                    "Score": "6418",
+                    "Goals": "16",
+                    "Assist": "8",
+                    "Save": "18",
+                    "Shot": "57"
+                }]
+            }],
+            "mist":[{
+                "Players": "mist",
+                "General":[{
+                    "Victory": "58.82%",
+                    "Score": "7030",
+                    "Goals": "14",
+                    "Assist": "9",
+                    "Save": "28",
+                    "Shot": "61"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "mala"
+        }],
+        "Coach":[{
+            "Name":"Moopy"
+        }],
+        "Native":[{
+            "Country":"Etats-Unis"
+        }],
+        "Region":[{
+            "Continent":"Amérique du Nord"
+        }],
+        "Sponsor":[{
+            "Number": "5"
+        }],
+        "Earings":[{
+            "Money": "135 865$"
+        }],
+        "Created":[{
+            "Dated": "02-10-2019"
+        }],
+        "Disbanded":[{
+            "Dated": ""
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "58.82%",
+                "Score": "19228",
+                "Goals": "37",
+                "Assists": "30",
+                "Saves": "75",
+                "Shots": "152"
+            }]
+        }],
+        "Price":[{
+            "Cash": "24 750$"
+        }]
+    }],
+    "Reciprocity":[{
+        "Team": "Team Reciprocity",
+        "Compo":[{
+            "Ferra":[{
+                "Players": "Ferra",
+                "General":[{
+                    "Victory": "36.36%",
+                    "Score": "4100",
+                    "Goals": "8",
+                    "Assist": "7",
+                    "Save": "14",
+                    "Shot": "28"
+                }]
+            }],
+            "Chausette45":[{
+                "Players": "Chausette45",
+                "General":[{
+                    "Victory": "36.36%",
+                    "Score": "3865",
+                    "Goals": "5",
+                    "Assist": "2",
+                    "Save": "18",
+                    "Shot": "30"
+                }]
+            }],
+            "fruity":[{
+                "Players": "fruity",
+                "General":[{
+                    "Victory": "36.36%",
+                    "Score": "3081",
+                    "Goals": "4",
+                    "Assist": "5",
+                    "Save": "12",
+                    "Shot": "28"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "Neqzo"
+        }],
+        "Coach":[{
+            "Name":"yumi_cheeseman"
+        }],
+        "Native":[{
+            "Country":"Canada"
+        }],
+        "Region":[{
+            "Continent":"Europe"
+        }],
+        "Sponsor":[{
+            "Number": ""
+        }],
+        "Earings":[{
+            "Money": "84 929$"
+        }],
+        "Created":[{
+            "Dated": "03-09-2019"
+        }],
+        "Disbanded":[{
+            "Dated": "04-05-2020"
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "36.36%",
+                "Score": "11046",
+                "Goals": "17",
+                "Assists": "14",
+                "Saves": "44",
+                "Shots": "86"
+           }]
+        }],
+        "Price":[{
+            "Cash": "16k$"
+        }]
+    }],
+    "Renegades":[{
+        "Team": "Renegades",
+        "Compo":[{
+            "Torsos":[{
+                "Players": "Torsos",
+                "General":[{
+                    "Victory": "38.46%",
+                    "Score": "4929",
+                    "Goals": "3",
+                    "Assist": "7",
+                    "Save": "32",
+                    "Shot": "31"
+                }]
+            }],
+            "Kamii":[{
+                "Players": "Kamii",
+                "General":[{
+                    "Victory": "38.46%",
+                    "Score": "4598",
+                    "Goals": "7",
+                    "Assist": "5",
+                    "Save": "19",
+                    "Shot": "36"
+                }]
+            }],
+            "Siki":[{
+                "Players": "Siki",
+                "General":[{
+                    "Victory": "38.46%",
+                    "Score": "5952",
+                    "Goals": "7",
+                    "Assist": "3",
+                    "Save": "33",
+                    "Shot": "45"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "Yeatzy"
+        }],
+        "Coach":[{
+            "Name":""
+        }],
+        "Native":[{
+            "Country":"Etats-Unis"
+        }],
+        "Region":[{
+            "Continent":"Océanie"
+        }],
+        "Sponsor":[{
+            "Number": "7"
+        }],
+        "Earings":[{
+            "Money": "160 974$"
+        }],
+        "Created":[{
+            "Dated": "09-03-2015"
+        }],
+        "Disbanded":[{
+            "Dated": ""
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "38.46%",
+                "Score": "15479",
+                "Goals": "17",
+                "Assists": "15",
+                "Saves": "84",
+                "Shots":"112"
+           }]
+        }],
+        "Price":[{
+            "Cash": "16k$"
+        }]
+    }],
+    "eUnited":[{
+        "Team": "eUnited",
+        "Compo":[{
+            "hockser":[{
+                "Players": "hockser",
+                "General":[{
+                    "Victory": "46.15%",
+                    "Score": "5398",
+                    "Goals": "6",
+                    "Assist": "7",
+                    "Save": "31",
+                    "Shot": "38"
+                }]
+            }],
+            "Roll Dizz":[{
+                "Players": "Roll Dizz",
+                "General":[{
+                    "Victory": "46.15%",
+                    "Score": "4128",
+                    "Goals": "5",
+                    "Assist": "2",
+                    "Save": "13",
+                    "Shot": "32"
+                }]
+            }],
+            "ayjacks":[{
+                "Players": "ayjacks",
+                "General":[{
+                    "Victory": "46.15%",
+                    "Score": "5062",
+                    "Goals": "7",
+                    "Assist": "5",
+                    "Save": "26",
+                    "Shot": "35"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": ""
+        }],
+        "Coach":[{
+            "Name":"fire"
+        }],
+        "Native":[{
+            "Country":"Etats-Unis"
+        }],
+        "Region":[{
+            "Continent":"Améique du Nord"
+        }],
+        "Sponsor":[{
+            "Number": "3"
+        }],
+        "Earings":[{
+            "Money": "92 654$"
+        }],
+        "Created":[{
+            "Dated": "13-11-2019"
+        }],
+        "Disbanded":[{
+            "Dated": ""
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "46.15%",
+                "Score": "14588",
+                "Goals": "18",
+                "Assists": "14",
+                "Saves": "70",
+                "Shots": "105"
+           }]
+        }],
+        "Price":[{
+            "Cash": "12k$"
+        }]
+    }],
+    "Lowkey":[{
+        "Team": "Lowkey Esports",
+        "Compo":[{
+            "caard":[{
+                "Players": "caard",
+                "General":[{
+                    "Victory": "41.67%",
+                    "Score": "5294",
+                    "Goals": "7",
+                    "Assist":"5",
+                    "Save": "25",
+                    "Shot": "32"
+                }]
+            }],
+            "tander":[{
+                "Players": "tander",
+                "General":[{
+                    "Victory": "41.67%",
+                    "Score": "3636",
+                    "Goals": "3",
+                    "Assist": "5",
+                    "Save": "22",
+                    "Shot": "28"
+                }]
+            }],
+            "CaioTG1":[{
+                "Players": "CaioTG1",
+                "General":[{
+                    "Victory": "41.67%",
+                    "Score": "5152",
+                    "Goals": "10",
+                    "Assist": "6",
+                    "Save": "24",
+                    "Shot": "42"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "Firewall154"
+        }],
+        "Coach":[{
+            "Name":"Kairos"
+        }],
+        "Native":[{
+            "Country":"Etats-Unis"
+        }],
+        "Region":[{
+            "Continent":"Amérique du Sud"
+        }],
+        "Sponsor":[{
+            "Number": "2"
+        }],
+        "Earings":[{
+            "Money": "36 618$"
+        }],
+        "Created":[{
+            "Dated": "07-03-2019"
+        }],
+        "Disbanded":[{
+            "Dated": "07-01-2020"
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "41.67%",
+                "Score": "14082",
+                "Goals": "20",
+                "Assists": "16",
+                "Saves": "71",
+                "Shots": "102"
+           }]
+        }],
+        "Price":[{
+            "Cash": "12k$"
+        }]
+    }],
+    "Canberra":[{
+        "Team": "Canberra Havoc",
+        "Compo":[{
+            "Walcott":[{
+                "Players": "Walcott",
+                "General":[{
+                    "Victory": "0.00%",
+                    "Score": "1968",
+                    "Goals": "3",
+                    "Assist": "3",
+                    "Save": "10",
+                    "Shot": "12"
+                }]
+            }],
+            "Le Duck":[{
+                "Players": "Le Duck",
+                "General":[{
+                    "Victory": "0.00%",
+                    "Score": "1504",
+                    "Goals": "5",
+                    "Assist": "1",
+                    "Save": "2",
+                    "Shot": "12"
+                }]
+            }],
+            "SPYDOGE":[{
+                "Players": "SPYDOGE",
+                "General":[{
+                    "Victory": "0.00%",
+                    "Score": "1869",
+                    "Goals": "0",
+                    "Assist": "2",
+                    "Save": "13",
+                    "Shot": "14"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "Riv"
+        }],
+        "Coach":[{
+            "Name":"Jimmah"
+        }],
+        "Native":[{
+            "Country":"Australie"
+        }],
+        "Region":[{
+            "Continent":"Océanie"
+        }],
+        "Sponsor":[{
+            "Number": ""
+        }],
+        "Earings":[{
+            "Money": "40 355$"
+        }],
+        "Created":[{
+            "Dated": "08-11-2019"
+        }],
+        "Disbanded":[{
+            "Dated": "03-05-2021"
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "0.00%",
+                "Score": "5341",
+                "Goals": "8",
+                "Assists": "6",
+                "Saves": "25",
+                "Shots": "38"
+           }]
+        }],
+        "Price":[{
+            "Cash": "12k$"
+        }]
+    }],
+    "Three":[{
+        "Team": "The Three Sins",
+        "Compo":[{
+            "matix":[{
+                "Players": "matix",
+                "General":[{
+                    "Victory": "14.29%",
+                    "Score": "2377",
+                    "Goals": "3",
+                    "Assist": "1",
+                    "Save": "10",
+                    "Shot": "16"
+                }]
+            }],
+            "math":[{
+                "Players": "math",
+                "General":[{      
+                    "Victory": "14.29%",
+                    "Score": "2818",
+                    "Goals": "4",
+                    "Assist": "0",
+                    "Save": "13",
+                    "Shot": "19"
+                }]
+            }],
+            "valt":[{
+                "Players": "valt",
+                "General":[{
+                    "Victory": "14.29%",
+                    "Score": "2510",
+                    "Goals": "0",
+                    "Assist": "5",
+                    "Save": "19",
+                    "Shot": "10"
+                }]
+            }]
+        }],
+        "Substitue":[{
+            "Players": "Jato"
+        }],
+        "Coach":[{
+            "Name":"BananaMan"
+        }],
+        "Native":[{
+            "Country":"Brésil"
+        }],
+        "Region":[{
+            "Continent":"Amérique du Sud"
+        }],
+        "Sponsor":[{
+            "Number": ""
+        }],
+        "Earings":[{
+            "Money": "34 600$"
+        }],
+        "Created":[{
+            "Dated": "07-01-2017"
+        }],
+        "Disbanded":[{
+            "Dated": "22-01-2021"
+        }],
+        "Stats":[{
+            "General":[{
+                "Victory": "14.29%",
+                "Score": "7705",
+                "Goals": "7",
+                "Assists": "6",
+                "Saves":"42",
+                "Shots": "45"
+           }]
+        }],
+        "Price":[{
+            "Cash": "12k$"
+        }]
+    }],
+    "Cursor":[{
+        "1": "30",
+        "2": "30",
+        "3": "30",
+        "4": "30",
+        "5": "25",
+        "6": "25",
+        "7": "25",
+        "8": "25",
+        "9": "15",
+        "10": "15",
+        "11": "15",
+        "12": "15"
+    }]
+}
+
