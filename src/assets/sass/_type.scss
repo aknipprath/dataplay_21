@@ -29,7 +29,7 @@
         position: relative;
         &::before{
             content: "1. ";
-            color: v.$gradientb;
+            color: linear-gradient(90deg, #2B66FF 0%, #C324FF 100%);
 
         }
     }
@@ -59,25 +59,25 @@
 .tuto{
     &__el{
         list-style: none;
+        &--li{
+            position: relative;
+            &::before{
+                content: "";
+                position: absolute;
+                display: block;
+                width: 20px;
+                height: 5px;
+                background-image: v.$gradientr;
+                box-shadow: 0px 4px 36px v.$blue;
+                border-radius: 5px;
+                left: -30px;
+                top: 22px;
+            }
         }
-    &--li{
-        position: relative;
-        &::before{
-            content: "";
-            position: absolute;
-            display: block;
-            width: 20px;
-            height: 5px;
-            background-image: v.$gradientr;
-            box-shadow: 0px 4px 36px v.$blue;
-            border-radius: 5px;
-            left: -30px;
-            top: 22px;
+        &--blue{
+            &::before{
+                background-image: v.$gradientb;
+            }
         }
-    &--blue{
-        &::before{
-            background-image: v.$gradientb;
-        }
-    }
     }
 }
