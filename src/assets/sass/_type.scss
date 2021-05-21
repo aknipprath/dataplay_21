@@ -27,13 +27,22 @@
     &--med{
         font-size: 38px;
         position: relative;
+
         &::before{
             content: "1. ";
-            color: linear-gradient(90deg, #2B66FF 0%, #C324FF 100%);
-
+            background: -webkit-linear-gradient(90deg, #2B66FF 0%, #C324FF 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        & .deux{
+            &::before{
+                background: -webkit-linear-gradient(90deg, #FF1B1B 0%, #FFB914 100%);
+        
+            }
         }
     }
 }
+
 .deux{
     &::before{
         content: "2. ";
