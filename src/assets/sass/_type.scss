@@ -34,6 +34,7 @@
 }
 .small{
     font-size: 19px;
+    text-align: center;
 }
 .btn{
     &--pari{
@@ -59,7 +60,7 @@
             box-shadow: 0px 4px 36px v.$blue;
             border-radius: 5px;
             left: -30px;
-            top: 50%;
+            top: 22px;
         }
         &--blue{
             &::before{
