@@ -1,10 +1,33 @@
 //margin padding
 @use "_var.scss" as v;
 
-body{
+body, .btn--pari{
     background-color: v.$bgcolor;
     color: v.$textcolor;
     font-family: v.$typo;
     font-weight: 300;
     font-size: 30px;
+    margin: 0 22.75px;
+}
+.btn{
+    &--pari{
+        width: 212px;
+        height: 45px;
+        background: linear-gradient(92.58deg, #2B66FF 0%, #C324FF 99.93%);
+        box-shadow: 0px 3px 9px #C324FF;
+        border-radius: 4px;
+        border: none;
+    }
+}
+video { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    transition: 1s opacity;
 }
