@@ -1,0 +1,10 @@
+//margin padding
+@use "_var.scss" as v;
+
+body{
+    background-color: v.$bgcolor;
+    color: v.$textcolor;
+    font-family: v.$typo;
+    font-weight: 300;
+    font-size: 30px;
+}
