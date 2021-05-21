@@ -39,7 +39,7 @@ const javascript = () => {
 }
 
 const video = () => {
-	return gulp.src('./src/assets/video/**/*.m4v')
+	return gulp.src('./src/assets/video/**/*.mp4')
 		.pipe(gulp.dest( './dist/assets/video/'));
 }
 

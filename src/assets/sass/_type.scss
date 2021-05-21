@@ -16,7 +16,7 @@
             content: "";
             position: absolute;
             display: block;
-            width: 110%;
+            width: 100%;
             height: 5px;
             background-image: v.$gradientb;
             box-shadow: 0px 4px 36px v.$blue;
@@ -34,6 +34,16 @@
         }
     }
 }
+.deux{
+    &::before{
+        content: "2. ";
+    }
+}
+.trois{
+    &::before{
+        content: "3. ";
+    }
+}
 .small{
     font-size: 19px;
     text-align: center;
@@ -47,10 +57,10 @@
     }
 }
 .tuto{
-    &__ul{
+    &__el{
         list-style: none;
         }
-    &__li{
+    &--li{
         position: relative;
         &::before{
             content: "";
@@ -64,10 +74,10 @@
             left: -30px;
             top: 22px;
         }
-        &--blue{
-            &::before{
-                background-image: v.$gradientb;
-            }
+    &--blue{
+        &::before{
+            background-image: v.$gradientb;
         }
+    }
     }
 }
