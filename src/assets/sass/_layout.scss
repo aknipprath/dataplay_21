@@ -44,6 +44,13 @@ section{
         display: none;
     }
 }
+.credits{
+    align-self: flex-end;
+    margin-bottom: 0;
+}
+.landing--expli{
+    margin:75px 0;
+}
 .logo{
     max-width: 80%;
     align-self: center;
@@ -87,6 +94,5 @@ section{
         linear-gradient(#2B66FF, #C324FF),
         linear-gradient(#2B66FF, #C324FF);
         box-shadow:0px 3px 10px #C324FF;
-    }
-    
+    }    
 }
