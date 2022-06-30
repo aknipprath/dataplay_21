@@ -1,17 +1,2 @@
-/*!
-***
-Dataplay 21 Projet
-***
-Projet scolaire pour notre dataplay de 2e OPT DWM
-***
-vrsn: 1.0
-***
-atr: Julien Ma <julienma.be>
-atr: Quentin Golinveau <quentingolinveau.be>
-atr: Angélique Knipprath <angeliqueknipprath.be>
-***
-*/
-@use "_layout.scss";
-@use "_type.scss";
-@use "_grid.scss";
-@use "_var.scss";
+@use "_typo.scss";
+@use "box.scss";

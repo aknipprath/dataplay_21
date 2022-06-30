@@ -1,0 +1,163 @@
+.avatar, .projet{
+    margin-bottom: 40px;
+    &__img{
+        max-width: 100%;
+    }
+}
+.bar{
+    position: fixed;
+    top: -100px;
+    left: 0;
+    width: 100%;
+    align-items: center;
+    transition: top .3s;
+    padding: 0 24px;
+    z-index: 10;
+}
+.visible{
+    top: 0;
+}
+.logo{
+    background-repeat: no-repeat;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    background-size: contain;
+    text-indent: 200%;
+    white-space: nowrap;
+    z-index: 10;
+    background-color: transparent;
+    border: none;
+    background-position: center;
+    outline: none;
+    width: 60px;
+    height: 60px;
+    display: block;
+    background-image: url(../images/logo.png);
+}
+.presentation{
+    &__content{
+        @media (min-width: 600px){
+            display: flex;
+            align-items: center;
+        }
+    }
+    &__text{
+        @media (min-width: 600px){
+            max-width: 50%;
+            padding: 20px;
+        }
+    }
+}
+.section{
+    padding: 0 20px;
+    overflow: hidden;
+    @media (min-width: 1460px){
+        overflow: visible;
+    }
+}
+.projet{
+    &__content{
+        display: flex;
+        flex-direction: column-reverse;
+        @media (min-width: 600px){
+            flex-direction: row;
+            align-items: center;
+        }
+        &--reverse{
+            @media (min-width: 600px){
+                flex-direction: row-reverse;
+            }
+        }
+    }
+    &__img{
+        @media (min-width: 600px){
+            max-width: 50%;
+            padding: 20px;
+        }
+    }
+}
+.dataplay{
+    position: relative;
+    &::before{
+        background-image: url(../images/aqua1.png);
+        background-size: cover;
+        width: 400px;
+        height: 400px;
+        content: "";
+        position: absolute;
+        top: -250px;
+        right: -150px;
+        opacity: .8;
+        z-index: -5;
+    }
+}
+.iolce{
+    position: relative;
+    &::before{
+        background-image: url(../images/aqua2.png);
+        background-size: cover;
+        width: 300px;
+        height: 250px;
+        content: "";
+        position: absolute;
+        top: -250px;
+        left: -45px;
+        opacity: .5;
+        z-index: -5;
+    }
+}
+.contact{
+    position: relative;
+    &::before{
+        background-image: url(../images/aqua3.png);
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+        content: "";
+        position: absolute;
+        top: 0;
+        right: -25px;
+        opacity: .5;
+        z-index: -5;
+    } 
+    &__button{
+        width: 100%;
+        text-align: center;
+        margin: 60px 0;
+    }
+    &__link{
+        text-decoration: none;
+        color: black;
+        border: 3px solid rgb(85, 188, 134);
+        border-radius: 10px;
+        margin: 10px;
+        height: 20px;
+        width: 20px;
+        padding: 10px;
+        &:hover{
+            box-shadow: 0 0 0 0 rgba(255, 0, 0, 1);
+            transform: scale(1);
+            animation: pulse 2s infinite; 
+            @keyframes pulse{
+                0% {
+                    transform: scale(0.95);
+                    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+                }
+                70% {
+                    transform: scale(1);
+                    box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+                }
+                100% {
+                    transform: scale(0.95);
+                    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+                }
+            }
+        }
+    }
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    margin-top: 60px;
+}
